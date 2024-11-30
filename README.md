@@ -56,43 +56,24 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="50%">
-        <h3>🌟 Project 1</h3>
-        <a href="https://github.com/your-github/project-1">
-          <img src="https://via.placeholder.com/400x200.png?text=Project+1+Image" alt="Project 1" width="100%">
+      <td align="center" width="100%">
+        <h3>🌟 EventEase</h3>
+        <a href="https://github.com/Nartyanaman/EventEase">
+          <img src="https://via.placeholder.com/800x400.png?text=EventEase+Banner" alt="EventEase" width="100%">
         </a>
-        <p>🔗 <a href="https://github.com/your-github/project-1">View on GitHub</a></p>
-        <p>A brief description of your project goes here. Highlight its purpose and impact!</p>
-      </td>
-      <td align="center" width="50%">
-        <h3>🚀 Project 2</h3>
-        <a href="https://github.com/your-github/project-2">
-          <img src="https://via.placeholder.com/400x200.png?text=Project+2+Image" alt="Project 2" width="100%">
-        </a>
-        <p>🔗 <a href="https://github.com/your-github/project-2">View on GitHub</a></p>
-        <p>Another amazing project description here. What does it solve or achieve?</p>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="50%">
-        <h3>✨ Project 3</h3>
-        <a href="https://github.com/your-github/project-3">
-          <img src="https://via.placeholder.com/400x200.png?text=Project+3+Image" alt="Project 3" width="100%">
-        </a>
-        <p>🔗 <a href="https://github.com/your-github/project-3">View on GitHub</a></p>
-        <p>Highlight unique features or technologies used in this project.</p>
-      </td>
-      <td align="center" width="50%">
-        <h3>🌐 Project 4</h3>
-        <a href="https://github.com/your-github/project-4">
-          <img src="https://via.placeholder.com/400x200.png?text=Project+4+Image" alt="Project 4" width="100%">
-        </a>
-        <p>🔗 <a href="https://github.com/your-github/project-4">View on GitHub</a></p>
-        <p>A brief description that explains why this project is cool!</p>
+        <p>🔗 <a href="https://github.com/Nartyanaman/EventEase">View on GitHub</a></p>
+        <p>🎉 EventEase is a powerful tool for simplifying event management. From scheduling to attendee tracking, it handles all aspects seamlessly.</p>
+        <p>🛠️ Built with:
+          <br>
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="25" height="25">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="Spring Boot" width="25" height="25">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="25" height="25">
+        </p>
       </td>
     </tr>
   </table>
 </div>
+
 
 
 ---

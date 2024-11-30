@@ -49,7 +49,7 @@
 <h2 align="center">📫 Let's Connect</h2>
 <p align="center">
   <a href="mailto:nartyanaman@gmail.com"><img src="https://img.shields.io/badge/Email-FB542B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/nartya-naman-227aba237/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://github.com/Nartyanaman"><img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
 

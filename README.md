@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nartya Naman</h1>
 <h3 align="center">Hey, it's Nartya Naman! 🚀 🌟 I'm all about simple solutions and teaming up for success. From snazzy websites to user-friendly systems, I'm your go-to guy. 👨</h3>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Nartyanaman/Nartyanaman/main/https://drive.google.com/file/d/1IPj49--Y6Hk7SG5ayQVnI11YCIRq6uz9/view?usp=drive_link " alt="Profile Photo" width="150">
-</div>
-
 - 📫 How to reach me **nartyanaman@gmail.com**
 
 <h3 align="left">Connect with me:</h3>

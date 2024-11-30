@@ -2,7 +2,7 @@
 <h3 align="center">Hey, it's Nartya Naman! 🚀 🌟 I'm all about simple solutions and teaming up for success. From snazzy websites to user-friendly systems, I'm your go-to guy. 👨</h3>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/nartya/nartya-profile/main/images/profile-photo.jpg" alt="Profile Photo" width="150">
+  <img src="https://images.app.goo.gl/eCzvZXZkmWTpP8Xq6" alt="Profile Photo" width="150">
 </div>
 
 - 📫 How to reach me **nartyanaman@gmail.com**

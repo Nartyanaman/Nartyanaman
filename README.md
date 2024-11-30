@@ -2,7 +2,7 @@
 <h3 align="center">Hey, it's Nartya Naman! 🚀 🌟 I'm all about simple solutions and teaming up for success. From snazzy websites to user-friendly systems, I'm your go-to guy. 👨</h3>
 
 <div align="center">
-  <img src="https://pixabay.com/illustrations/ai-generated-man-coding-african-8363801/" alt="Profile Photo" width="150">
+  <img src="https://drive.google.com/file/d/1IPj49--Y6Hk7SG5ayQVnI11YCIRq6uz9/view?usp=drive_link" alt="Profile Photo" width="150">
 </div>
 
 - 📫 How to reach me **nartyanaman@gmail.com**

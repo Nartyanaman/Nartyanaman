@@ -45,6 +45,12 @@
 </p>
 
 ---
+<h2 align="center">😂 Developer Jokes</h2>
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Random Developer Joke" />
+</p>
+
+---
 
 <h2 align="center">📫 Let's Connect</h2>
 <p align="center">

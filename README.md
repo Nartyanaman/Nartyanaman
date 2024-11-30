@@ -54,13 +54,46 @@
 
 <h2 align="center">🎨 Featured Projects</h2>
 <div align="center">
-  <a href="https://github.com/your-repo-1" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-github&repo=your-repo-1&theme=highcontrast" alt="Project 1">
-  </a>
-  <a href="https://github.com/your-repo-2" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-github&repo=your-repo-2&theme=highcontrast" alt="Project 2">
-  </a>
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <h3>🌟 Project 1</h3>
+        <a href="https://github.com/your-github/project-1">
+          <img src="https://via.placeholder.com/400x200.png?text=Project+1+Image" alt="Project 1" width="100%">
+        </a>
+        <p>🔗 <a href="https://github.com/your-github/project-1">View on GitHub</a></p>
+        <p>A brief description of your project goes here. Highlight its purpose and impact!</p>
+      </td>
+      <td align="center" width="50%">
+        <h3>🚀 Project 2</h3>
+        <a href="https://github.com/your-github/project-2">
+          <img src="https://via.placeholder.com/400x200.png?text=Project+2+Image" alt="Project 2" width="100%">
+        </a>
+        <p>🔗 <a href="https://github.com/your-github/project-2">View on GitHub</a></p>
+        <p>Another amazing project description here. What does it solve or achieve?</p>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50%">
+        <h3>✨ Project 3</h3>
+        <a href="https://github.com/your-github/project-3">
+          <img src="https://via.placeholder.com/400x200.png?text=Project+3+Image" alt="Project 3" width="100%">
+        </a>
+        <p>🔗 <a href="https://github.com/your-github/project-3">View on GitHub</a></p>
+        <p>Highlight unique features or technologies used in this project.</p>
+      </td>
+      <td align="center" width="50%">
+        <h3>🌐 Project 4</h3>
+        <a href="https://github.com/your-github/project-4">
+          <img src="https://via.placeholder.com/400x200.png?text=Project+4+Image" alt="Project 4" width="100%">
+        </a>
+        <p>🔗 <a href="https://github.com/your-github/project-4">View on GitHub</a></p>
+        <p>A brief description that explains why this project is cool!</p>
+      </td>
+    </tr>
+  </table>
 </div>
+
 
 ---
 

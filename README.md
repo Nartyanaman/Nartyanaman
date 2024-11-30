@@ -1,8 +1,13 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&color=F7DF1E&center=true&vCenter=true&width=600&height=80&lines=Hi+%F0%9F%91%8B%2C+I'm+Nartya+Naman!;Developer+%7C+Innovator+%7C+Explorer" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&color=FF5733&center=true&vCenter=true&width=800&height=80&lines=Hi+%F0%9F%91%8B%2C+I'm+Nartya+Naman!;Developer+%7C+Innovator+%7C+Explorer;Building+Digital+Magic+%F0%9F%94%A5" alt="Typing SVG">
 </h1>
 
-<h3 align="center">🌌 Transforming ideas into digital magic 🚀</h3>
+<div align="center">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Welcome Gif" width="60%">
+</div>
+
+<h3 align="center">✨ Turning Ideas Into Reality ✨</h3>
+<h4 align="center" style="font-weight: 400;">Crafting efficient solutions to solve real-world problems, one line of code at a time. 🌟</h4>
 
 ---
 
@@ -17,24 +22,15 @@
 
 <h2 align="center">🎨 Featured Project: EventEase</h2>
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <img src="https://drive.google.com/uc?export=view&id=1IPj49--Y6Hk7SG5ayQVnI11YCIRq6uz9" alt="Nartya Naman Photo" width="100%">
-      </td>
-      <td align="center" width="50%">
-        <h3>🌟 EventEase</h3>
-        <p>🎉 EventEase is a powerful tool for simplifying event management. From scheduling to attendee tracking, it handles all aspects seamlessly.</p>
-        <p>🔗 <a href="https://github.com/Nartyanaman/EventEase">View on GitHub</a></p>
-        <p>🛠️ Built with:
-          <br>
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="25" height="25">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="Spring Boot" width="25" height="25">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="25" height="25">
-        </p>
-      </td>
-    </tr>
-  </table>
+  <h3>🌟 EventEase</h3>
+  <p>🎉 EventEase is a powerful tool for simplifying event management. From scheduling to attendee tracking, it handles all aspects seamlessly.</p>
+  <p>🔗 <a href="https://github.com/Nartyanaman/EventEase">View on GitHub</a></p>
+  <p>🛠️ Built with:
+    <br>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="25" height="25">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="Spring Boot" width="25" height="25">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="25" height="25">
+  </p>
 </div>
 
 ---

@@ -20,21 +20,6 @@
 
 ---
 
-<h2 align="center">🎨 Featured Project: EventEase</h2>
-<div align="center">
-  <h3>🌟 EventEase</h3>
-  <p>🎉 EventEase is a powerful tool for simplifying event management. From scheduling to attendee tracking, it handles all aspects seamlessly.</p>
-  <p>🔗 <a href="https://github.com/Nartyanaman/EventEase">View on GitHub</a></p>
-  <p>🛠️ Built with:
-    <br>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="25" height="25">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="Spring Boot" width="25" height="25">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="25" height="25">
-  </p>
-</div>
-
----
-
 <h2 align="center">🛠️ My Toolbox</h2>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40">
@@ -45,6 +30,7 @@
 </p>
 
 ---
+
 <h2 align="center">😂 Developer Jokes</h2>
 <p align="center">
   <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Random Developer Joke" />
